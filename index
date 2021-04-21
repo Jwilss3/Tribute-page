@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+
+  <title>Tribute Page</title>
+</head>
+<h1 id="h1">Stevie Wonder</h1>
+<h2 id="title">A tribute to one of the most successful musicians of our time</h2>
+
+<main id="main">
+  <img src="https://vignette.wikia.nocookie.net/uncyclopedia/images/2/25/Hotterthanjuly.jpg/revision/latest?cb20120630072245" alt="Stevie Wonder Hotter Than July album cover" class="secondimage" style="height: 300px">
+  <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="Stevie Wonder Spotify cover photo" class="thirdimage" style="height: 300px">
+  </div>
+</main>
+<div class="facts">
+  Quick Look
+  <p style="font-size: 20px; color: #545454;"> Name:</p>
+  <p style="font-size: 20px; color: #000000;">Stevie Wonder</p>
+  <p style="font-size: 20px; color: #545454;"> Born:</p>
+  <p style="font-size: 20px; color: #000000;">May 13, 1950 (age 70)</p>
+  <p style="font-size: 20px; color: #545454;"> First single:</p>
+  <p style="font-size: 20px; color: #000000;">Contract on Love</p>
+  <p style="font-size: 20px; color: #545454;"> Age Discovered:</p>
+  <p style="font-size: 20px; color: #000000;">11</p>
+</div>
+
+<body id="tributeinfo">
+  <div>
+    <p class="p"> Stevland Hardaway Morris (born Judkins; born May 13, 1950), known professionally as Stevie Wonder, is an American singer, songwriter, musician and record producer. A prominent figure in popular music during the second half of the 20th century, Wonder is one of the most successful songwriters and musicians. A virtual one-man band, his use of synthesizers and further electronic musical instruments during the 1970s reshaped the conventions of R&B. He also helped drive the genre into the album era, crafting his LPs as cohesive, consistent socially conscious statements with complex compositions. Wonder is often hailed as a "genius", and has been credited as a pioneer and influence to musicians of various genres including rhythm and blues, pop, soul, gospel, funk and jazz.</p>
+  </div>
+</body>
+<div class="nexto">
+  Wonder has sold over 100 million records worldwide, making him one of the best-selling music artists of all time. He has won 22 Grammy Awards. He was the first Motown artist and second African-American musician to win an Academy Award for Best Original Song, for the 1984 film The Woman in Red. Wonder has been inducted into the Rhythm and Blues Music Hall of Fame, Rock and Roll Hall of Fame and Songwriters Hall of Fame, and has received a star on the Hollywood Walk of Fame. He is also noted for his work as an activist for political causes, including his 1980 campaign to make Martin Luther King Jr.'s birthday a federal holiday in the United States. In 2009, he was named a United Nations Messenger of Peace.
+<br>In 2014, he was honored with the Presidential Medal of Freedom.
+</div>
+  <div id="imgdiv">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg" id="image" style="height: 300px; max-width: 100%;">
+    <figcaption id='img-caption'>Stevie Wonder in 1994</figcaption>
+  </div>
+<div>
+  <p class="more">If you are interested in reading more about this incredible artist, check out his <a href="https://www.biography.com/musician/stevie-wonder" id="tributelink" target=“_blank”>Biography page.</a>
+</div>
